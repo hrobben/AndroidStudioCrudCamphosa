@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "50580447168",
+    "firebase_url": "https://crud-system-fa238-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "crud-system-fa238",
+    "storage_bucket": "crud-system-fa238.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50580447168:android:c101859f8768b368ffb225",
+        "android_client_info": {
+          "package_name": "info.camposha.firebasedatabasecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50580447168-p2rrvok0skl5doi7um1a0vlcje36asfh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX7Z_QL_n4u7qcpb8QntZYK7LCCqOUht8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50580447168-p2rrvok0skl5doi7um1a0vlcje36asfh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
